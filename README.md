@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colichri
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java☕
-- 💞️ I’m looking to collaborate on WebDev projects
+- 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me? slide into my -> dms
 
 <!---
